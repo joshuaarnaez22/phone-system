@@ -29,7 +29,7 @@ import { Progress } from "@/components/ui/progress";
 
 export default function Page() {
   // Sample data - replace with your actual data
-  const customerName = "Acme Corporation";
+  const customerName = "Demo App";
   const timeRange = "This Month";
   const callStats = {
     numberOfCalls: 157,
